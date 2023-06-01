@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://www.paraquedismoskycompany.com.br/wp-content/uploads/2019/09/paraquedismo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+
+/* 
+   Class que tem a responsabilidade de cntrolar o conteúdo
+*/
+.container{
+    /*  troca todas as cores de texto */
+    color: white;
+    /*  criar um espaço */
+    padding: 80px;
+}
+/* 
+card de centro para conter a informações
+ */
+.card {
+    background-color: black;
+    border-radius: 15px;
+    text-align: center;
+    /*  criar um espaço */
+    padding: 20px;
+}
+
+/* 
+    é um botão para abrir o whats
+*/
+
+a {
+    /*  criar um espaço */
+    padding: 15px;
+    /*  adicionar a cor ao espaço */
+    background-color:white;
+    /* Deixa a borda arredonda */
+    border-radius:10px;
+    /* muda a cor do texto */
+    color:black;
+}
